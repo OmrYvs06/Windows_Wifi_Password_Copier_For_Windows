@@ -14,6 +14,7 @@ int findFunction(const char* mainStr, const char* findStr){ // it is not working
         else
             j = 0;
     }
+
     if(flag){
         return i;
     }else{
